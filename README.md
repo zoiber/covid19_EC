@@ -5,3 +5,6 @@ La información fue obtenida desde las [gacetas] (https://www.salud.gob.ec/gacet
 Estos datos fueron utilizados para crear una visualización sorprendente en [Flourih](https://public.flourish.studio/story/240030/)
 
 
+<p align="center">
+  <img src="./img/ejemplo.png" alt="Size Limit CLI" width="738">
+</p>
